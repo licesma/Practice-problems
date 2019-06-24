@@ -1,1 +1,1 @@
-# Solving leetcodeproblems just for the fun of it.
+# Solving leetcode problems just for the fun of it.
